@@ -13,7 +13,7 @@
 
 |Nombre| descripcion |
 |-------|---------|
-|COMBUSTIBLE | combustible restante que lleva el avion |
+|COMBUSTIBLE | combustible gastado del avion |
 |DISTANCIA|distancia recorrida por el avion |
 |VIENTO| variaciones del viento|
 |
@@ -23,6 +23,7 @@
 |Nombre| descripcion |
 |-------|---------|
 |COMBUSTIBLE | combustible restante del avion |
+|DISTANCIA| distancia recorrida del avion|
 |ALERTA | combustible de reserva si se termina el principal |
 |CONSUMO |consumo que lleva el avion en el recorrido| 
 
