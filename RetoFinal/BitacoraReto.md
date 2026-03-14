@@ -8,6 +8,7 @@
 |WAYPOINT |puntos de control del vuelo
 |TIPO DE VIENTO| si hay viento en contra o viento a favor |
 |PESO | peso del avion al despegar|
+|ALTITUD| 
 
 **DATOS INTERMEDIOS**
 
@@ -26,6 +27,7 @@
 |DISTANCIA| distancia recorrida del avion|
 |ALERTA | combustible de reserva si se termina el principal |
 |CONSUMO |consumo que lleva el avion en el recorrido| 
+
 
 
 
