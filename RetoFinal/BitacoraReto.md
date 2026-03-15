@@ -43,7 +43,7 @@
 .
 
 
-># PSEUDOCODIGO    
+>**PSEUDOCODIGO**    
 ```
 
 INICIO
@@ -99,3 +99,10 @@ FIN
 ```
 
 
+
+>**INFORMACION DEL PROYECTO**
+
+1. ¿La IA nombró bien las variables? 
+2. ¿Usó las estructuras adecuadas? 
+3. ¿Cometió algún error de lógica o no consideró algún caso? 
+4. Escribe qué modificaciones le hiciste para que encaje perfectamente con la Fase 4.
