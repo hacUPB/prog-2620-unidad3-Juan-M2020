@@ -1,3 +1,6 @@
+# Sistema de Monitoreo de Combustible y Seguridad en Ruta
+# Avión: Airbus A350
+
 CONSUMO_BASE = 6.4
 RESERVA_LEGAL = 3000
 
@@ -53,3 +56,17 @@ for tramo in range(1,6):
 
 if combustible_actual > RESERVA_LEGAL:
     print("Vuelo completado con éxito")
+
+
+# ---------------------------------------------------------
+# NOTA SOBRE USO DE IA:
+# Este código fue desarrollado con ayuda de inteligencia artificial.
+# La IA ayudó en la estructura inicial del programa, la función de cálculo
+# y la organización del flujo lógico.
+#
+# Sin embargo,yo realice modificaciones importantes como:
+# - inclusión del peso dinámico del avión
+# - mejora en la lógica del consumo
+# - adaptación a los requisitos del proyecto
+#
+# ---------------------------------------------------------
